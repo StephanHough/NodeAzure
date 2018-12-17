@@ -1,0 +1,20 @@
+{
+  "name": "nodeazure",
+  "version": "1.0.0",
+  "description": "basic node app to be deployed to azure from github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanHough/NodeAzure.git"
+  },
+  "author": "Stephan Hough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephanHough/NodeAzure/issues"
+  },
+  "homepage": "https://github.com/StephanHough/NodeAzure#readme"
+}
